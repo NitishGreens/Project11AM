@@ -15,6 +15,10 @@ public class Employee {
 
 	}
 
+	public void sub() {
+		System.out.println("sub");
+	}
+
 	public void mul() {
 		System.out.println("multiple");
 	}
